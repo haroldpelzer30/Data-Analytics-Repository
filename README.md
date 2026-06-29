@@ -9,8 +9,29 @@ This repository showcases my transition into Business Analytics, combining my ba
 * [CompTIA IT Fundamentals (ITF+)](./comptia-it-fundamentals-itf-certification.1.png)
 
 ### 🛠️ Projects
-* **Cloud Data Pipeline:** Python-based automation hosted on a Linode Linux VPS.
-* **Statistical Modeling:** Advanced Excel and Python analysis focusing on trend detection.
+📊 Market Research & Data Analysis Projects
+
+Gold (XAUUSD) Strategy Analysis
+
+* Conducted quantitative analysis of Gold (XAUUSD) using multiple technical trading strategies.
+* Collected, organized, and evaluated historical market data across different market conditions.
+* Tracked performance metrics including win rate, risk-to-reward ratio, and drawdowns.
+* Performed comparative analysis between trend-following and mean reversion strategies.
+* Utilized Excel and structured trade logging methods to document findings and evaluate performance trends.
+
+S&P 500 Strategy Analysis
+
+* Analyzed S&P 500 price behavior using systematic trading models and historical data.
+* Evaluated strategy effectiveness through statistical performance measurement.
+* Identified recurring market tendencies and high-probability trading conditions.
+* Maintained structured datasets to support data-driven decision making and research reporting.
+
+FlightDeck Market Intelligence Platform (In Development)
+
+* Designing an automated market research platform using Python, PostgreSQL, and cloud infrastructure.
+* Building a centralized database for market data collection, signal tracking, and performance analytics.
+* Developing analytical workflows to evaluate historical strategy performance and market behavior.
+* Creating a scalable framework for future dashboarding, reporting, and quantitative research.
 ### 🎨 UI/UX Design
 * **FlyGuy App Prototype:** [View Live Figma Prototype](https://www.figma.com/make/SYTS6QX0RTZkgekxYXj4mt/Financial-Literacy-App-Part-1?t=zoQMwaob9UhXhwyX-1)
   * Designed a user-centric interface for market data visualization and trade execution.
